@@ -12,7 +12,7 @@
 
 💞️ Open to collaborating on QA projects and growing as a valuable team member.
 
-📫 Reach me at: : on my email alexandraanca.gabor@gmail.com or on my LinkedIn profile linkedin.com/in/alexandra-gabor-609a961a2
+📫 Reach me at: :alexandraanca.gabor@gmail.com or linkedin.com/in/alexandra-gabor-609a961a2
 
 
 **🔧 Tech Stack**
