@@ -1,5 +1,17 @@
-- 👋 Hi, I’m @AlexandraAncaGabor!
-- 👀 I am passionate about Software Testing and eager to apply my knowledge to enhance the quality of products.
-- 🌱 Currently, I am actively expanding my expertise in testing, continually absorbing valuable insights.
-- 💞️  I am seeking opportunities to collaborate on QA projects, aspiring to contribute as a valuable team member.
-- 📫 How to reach me : on my email alexandraanca.gabor@gmail.com or on my LinkedIn profile linkedin.com/in/alexandra-gabor-609a961a2 
+**👋 Hi, I’m @AlexandraAncaGabor!**
+💻 QA Tester | Manual & Automation (Cypress in progress)
+👀 Passionate about Software Testing and dedicated to improving product quality.
+🌱 Currently learning and practicing Cypress, JavaScript, and automation testing.
+💡 Hands-on experience with web & mobile applications in Agile environments (Scrum & Kanban).
+📂 Check out my projects here on GitHub
+💞️ Open to collaborating on QA projects and growing as a valuable team member.
+📫 Reach me at: : on my email alexandraanca.gabor@gmail.com or on my LinkedIn profile linkedin.com/in/alexandra-gabor-609a961a2
+
+**🔧 Tech Stack**
+🐞 Testing Tools: Jira, Postman, Cypress (in progress)
+🌐 Web & Mobile Testing: Chrome DevTools, Android/Huawei apps
+🛠️ Programming & Scripting: JavaScript (beginner), SQL (basic)
+🔄 Version Control: Git, GitHub
+📋 Methodologies: Agile (Scrum, Kanban), Exploratory Testing, Regression, Sanity
+
+**✨ Guided by curiosity, committed to quality.**
