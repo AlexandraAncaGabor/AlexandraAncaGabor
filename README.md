@@ -14,6 +14,7 @@
 
 📫 Reach me at: : on my email alexandraanca.gabor@gmail.com or on my LinkedIn profile linkedin.com/in/alexandra-gabor-609a961a2
 
+
 **🔧 Tech Stack**
 
 🐞 Testing Tools: Jira, Postman, Cypress (in progress)
@@ -25,5 +26,6 @@
 🔄 Version Control: Git, GitHub
 
 📋 Methodologies: Agile (Scrum, Kanban), Exploratory Testing, Regression, Sanity
+
 
 _✨ Guided by curiosity, committed to quality._
