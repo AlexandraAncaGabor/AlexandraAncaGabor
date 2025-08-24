@@ -20,11 +20,9 @@
 
 🐞 Testing Tools: Jira, Postman, Cypress (in progress)
 
-🌐 Web & Mobile Testing: Chrome DevTools, Android/Huawei apps
-
 🛠️ Programming & Scripting: JavaScript (beginner), SQL (basic)
 
-🔄 Version Control: Git, GitHub
+🔄 Version Control: GitHub
 
 📋 Methodologies: Agile (Scrum, Kanban), Exploratory Testing, Regression, Sanity
 
