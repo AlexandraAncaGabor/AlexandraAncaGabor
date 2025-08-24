@@ -14,4 +14,4 @@
 🔄 Version Control: Git, GitHub
 📋 Methodologies: Agile (Scrum, Kanban), Exploratory Testing, Regression, Sanity
 
-**✨ Guided by curiosity, committed to quality.**
+_✨ Guided by curiosity, committed to quality._
