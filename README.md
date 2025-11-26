@@ -9,6 +9,7 @@
 💡 Hands-on experience with web & mobile applications in Agile environments (Scrum & Kanban).
 
 📂 Projects
+
 Check out my projects here:  
 •⁠  ⁠[Huawei Health Manual Tests](https://github.com/AlexandraAncaGabor/huawei-health-app-final-project)  
 •⁠  ⁠[Go Green Resources Manual Tests](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)  
