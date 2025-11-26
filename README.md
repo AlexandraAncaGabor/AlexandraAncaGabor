@@ -8,13 +8,11 @@
 
 💡 Hands-on experience with web & mobile applications in Agile environments (Scrum & Kanban).
 
-📂 Check out my projects here on GitHub
-
-💞️ Open to collaborating on QA projects and growing as a valuable team member.
-
-📫 Reach me at: alexandraanca.gabor@gmail.com or linkedin.com/in/alexandra-gabor-609a961a2
-
-
+## 📂 Projects
+Check out my projects here:  
+•⁠  ⁠[Huawei Health App Automation](https://github.com/AlexandraAncaGabor/huawei-health-app-final-project)  
+•⁠  ⁠[Go Green Resources Cypress Tests](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)  
+•⁠  ⁠[Cypress Automation Project](https://github.com/AlexandraAncaGabor/cypress-learning-journey)  
 
 **🔧 Tech Stack**
 
@@ -25,6 +23,12 @@
 🔄 Version Control: GitHub
 
 📋 Methodologies: Agile (Scrum, Kanban), Exploratory Testing, Regression, Sanity
+
+
+💞️ Open to collaborating on QA projects and growing as a valuable team member.
+
+📫 Reach me at: alexandraanca.gabor@gmail.com or linkedin.com/in/alexandra-gabor-609a961a2
+
 
 
 _✨ Guided by curiosity, committed to quality._
