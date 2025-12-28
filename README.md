@@ -12,9 +12,14 @@
 
 Check out my projects here:  
 •⁠  ⁠[Huawei Health Manual Tests](https://github.com/AlexandraAncaGabor/huawei-health-app-final-project)  
+
 •⁠  ⁠[Go Green Resources Manual Tests](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)  
+
 •⁠  ⁠[Cypress Automation Project](https://github.com/AlexandraAncaGabor/cypress-learning-journey)  
+
 •⁠  [API Testing](https://github.com/AlexandraAncaGabor/API-testing)
+
+•⁠  [Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing)
 
 **🔧 Tech Stack**
 
