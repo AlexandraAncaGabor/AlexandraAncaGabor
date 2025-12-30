@@ -23,11 +23,11 @@ Check out my projects here:
 
 **🔧 Tech Stack**
 
-📝 Languages & Scripting: JavaScript (beginner), SQL (basic)
+📝 Languages & Scripting: JavaScript
 
 🧪 Automation Frameworks: Cypress (in progress)
 
-💾 Databases: SQL (basic)
+💾 Databases: SQL 
 
 **🧰 Testing Tools**
 
