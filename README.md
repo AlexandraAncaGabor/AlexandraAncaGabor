@@ -17,9 +17,9 @@ Check out my projects here:
 
 •⁠  ⁠[Cypress Automation Project](https://github.com/AlexandraAncaGabor/cypress-learning-journey)  
 
-•⁠  [API Testing](https://github.com/AlexandraAncaGabor/API-testing)
-
 •⁠  [Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing)
+
+•⁠  [API Testing](https://github.com/AlexandraAncaGabor/API-testing)
 
 •  [Database-Queries](https://github.com/AlexandraAncaGabor/Database-queries/tree/main)
 
