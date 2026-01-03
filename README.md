@@ -21,6 +21,8 @@ Check out my projects here:
 
 •⁠  [API Testing](https://github.com/AlexandraAncaGabor/API-testing)
 
+•⁠  [Bookstore_API_testing](https://github.com/AlexandraAncaGabor/Bookstore_API_testing)
+
 •  [Database-Queries](https://github.com/AlexandraAncaGabor/Database-queries/tree/main)
 
 **🔧 Tech Stack**
