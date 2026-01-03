@@ -21,6 +21,8 @@ Check out my projects here:
 
 •⁠  [Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing)
 
+•  [Database-Queries](https://github.com/AlexandraAncaGabor/Database-queries/tree/main)
+
 **🔧 Tech Stack**
 
 📝 Languages & Scripting: JavaScript
