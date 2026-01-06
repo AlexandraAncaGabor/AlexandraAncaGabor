@@ -16,11 +16,11 @@
   Mobile application testing: test cases, exploratory testing, defect reporting.
 - **[Go Green Resources](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)**
   Web application testing for an NGO platform.
-- **[Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing)**
+- **[Smoke](https://github.com/AlexandraAncaGabor/Smoke_testing)**
   Smoke test suite for a live e-commerce website.
 
 #### Test Automation Projects
-- **[Cypress Automation Projec](https://github.com/AlexandraAncaGabor/cypress-learning-journey)**
+- **[Cypress Automation Project](https://github.com/AlexandraAncaGabor/cypress-learning-journey)**
   UI test automation using Cypress (learning & practice project).
 
 #### API Testing Projects
@@ -61,7 +61,12 @@
 
 💞️ Open to collaborating on QA projects and growing as a valuable team member.
 
-📫 Reach me at: alexandraanca.gabor@gmail.com or linkedin.com/in/alexandra-gabor-609a961a2
+📫 Reach me at: 
+alexandraanca.gabor@gmail.com 
+
+or
+
+linkedin.com/in/alexandra-gabor-609a961a2
 
 
 _✨ Guided by curiosity, committed to quality._
