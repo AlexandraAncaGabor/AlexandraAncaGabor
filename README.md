@@ -1,4 +1,4 @@
-**👋 Hi, I’m @AlexandraAncaGabor!**
+# 👋 Hi, I’m @AlexandraAncaGabor!
 
 💻 QA Tester | Manual & Automation Enthusiast (Cypress in progress)
 
@@ -9,7 +9,7 @@
 💡 Hands-on experience with web & mobile applications in Agile environments (Scrum & Kanban).
 
 
-# 📂 My QA Projects
+## 📂 My QA Projects
 
 | Project Type            | Project Name                       | Description / Focus                     |
 |-------------------------|------------------------------------|----------------------------------------|
@@ -22,7 +22,7 @@
 | Database Queries        | [Database Queries](https://github.com/AlexandraAncaGabor/Database-queries) | SQL queries   |
 
 
-**🔧 Tech Stack**
+## 🔧 Tech Stack
 
 📝 Languages & Scripting: JavaScript
 
@@ -30,7 +30,7 @@
 
 💾 Databases: MySQL 
 
-**🧰 Testing Tools**
+## 🧰 Testing Tools
 
 🔹 Jira
 
@@ -40,11 +40,11 @@
 
 🔹 GitHub
 
-**📋 Methodologies:**
+## 📋 Methodologies:
 - Agile (Scrum, Kanban),
 - Exploratory Testing, Regression, Sanity
 
-**💬 Let’s Connect**
+## 💬 Let’s Connect
 
 💞️ Open to collaborating on QA projects and growing as a valuable team member.
 
