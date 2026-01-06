@@ -11,7 +11,7 @@
 
 ### 📂 My QA Projects
 
-### Manual Testing Projects
+#### Manual Testing Projects
 - **[Huawei Health](https://github.com/AlexandraAncaGabor/huawei-health-app-final-project)**
   Mobile application testing: test cases, exploratory testing, defect reporting.
 - **[Go Green Resources](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)**
@@ -19,18 +19,18 @@
 - **[Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing)**
   Smoke test suite for a live e-commerce website.
 
-### Test Automation Projects
+#### Test Automation Projects
 - **[Cypress Automation Projec](https://github.com/AlexandraAncaGabor/cypress-learning-journey)**
   UI test automation using Cypress (learning & practice project).
 
-### API Testing Projects
+#### API Testing Projects
 - **[API Testing](https://github.com/AlexandraAncaGabor/API-testing)**
   REST API testing using Postman, including collections and assertions.
 
 - **[Bookstore API Testing](https://github.com/AlexandraAncaGabor/Bookstore_API_testing)**
   End-to-end API testing with a database 
 
-### Database & SQL Projects
+#### Database & SQL Projects
 - **[Database Queries](https://github.com/AlexandraAncaGabor/Database-queries)**
   SQL queries and database practice exercises.
 
