@@ -63,11 +63,9 @@
 
 📫 Reach me at: 
 
-[email](mailto:alexandraanca.gabor@gmail.com)
+Email: alexandraanca.gabor@gmail.com
 
-or
-
-[linkedin](linkedin.com/in/alexandra-gabor-609a961a2)
+Linkedin: linkedin.com/in/alexandra-gabor-609a961a2
 
 
 _✨ Guided by curiosity, committed to quality._
