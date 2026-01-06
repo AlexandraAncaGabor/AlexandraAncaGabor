@@ -11,15 +11,28 @@
 
 ### 📂 My QA Projects
 
-| Project Type            | Project Name                       | Description / Focus                     |
-|-------------------------|------------------------------------|----------------------------------------|
-| Manual Testing          | [Huawei Health](https://github.com/AlexandraAncaGabor/huawei-health-app-final-project) | Mobile health app testing               |
-|                         | [Go Green Resources](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)   | Environmental web page testing          |
-|                         | [Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing) | Basic functionality checks              |
-| Automation (Cypress)    | [Cypress Automation Projec](https://github.com/AlexandraAncaGabor/cypress-learning-journey) | Learning Cypress from basics to intermediate |
-| API Testing             | [API Testing](https://github.com/AlexandraAncaGabor/API-testing)| Validating API requests                 |
-|                         | [Bookstore API Testing](https://github.com/AlexandraAncaGabor/Bookstore_API_testing) | End-to-end API testing with a database |
-| Database Queries        | [Database Queries](https://github.com/AlexandraAncaGabor/Database-queries) | SQL queries   |
+### Manual Testing Projects
+- **[Huawei Health](https://github.com/AlexandraAncaGabor/huawei-health-app-final-project)**
+  Mobile application testing: test cases, exploratory testing, defect reporting.
+- **[Go Green Resources](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)**
+  Web application testing for an NGO platform.
+- **[Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing)**
+  Smoke test suite for a live e-commerce website.
+
+### Test Automation Projects
+- **[Cypress Automation Projec](https://github.com/AlexandraAncaGabor/cypress-learning-journey)**
+  UI test automation using Cypress (learning & practice project).
+
+### API Testing Projects
+- **[API Testing](https://github.com/AlexandraAncaGabor/API-testing)**
+  REST API testing using Postman, including collections and assertions.
+
+- **[Bookstore API Testing](https://github.com/AlexandraAncaGabor/Bookstore_API_testing)**
+  End-to-end API testing with a database 
+
+### Database & SQL Projects
+- **[Database Queries](https://github.com/AlexandraAncaGabor/Database-queries)**
+  SQL queries and database practice exercises.
 
 
 ### 🔧 Tech Stack
