@@ -8,22 +8,19 @@
 
 💡 Hands-on experience with web & mobile applications in Agile environments (Scrum & Kanban).
 
-📂 Projects
 
-Check out my projects here:  
-•⁠  ⁠[Huawei Health Manual Tests](https://github.com/AlexandraAncaGabor/huawei-health-app-final-project)  
+# 📂 My QA Projects
 
-•⁠  ⁠[Go Green Resources Manual Tests](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)  
+| Project Type            | Project Name                       | Description / Focus                     |
+|-------------------------|------------------------------------|----------------------------------------|
+| Manual Testing          | Huawei Health                      | Mobile health app testing               |
+|                         | Go Green Resources                 | Environmental web page testing          |
+|                         | Smoke Testing                       | Basic functionality checks              |
+| Automation (Cypress)    | Cypress Automation Project         | Learning Cypress from basics to intermediate |
+| API Testing             | API Testing                        | Validating API requests                 |
+|                         | Bookstore API Testing              | End-to-end API testing with a database |
+| Database Queries        | Database Queries                   | SQL queries and data validation         |
 
-•⁠  ⁠[Cypress Automation Project](https://github.com/AlexandraAncaGabor/cypress-learning-journey)  
-
-•⁠  [Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing)
-
-•⁠  [API Testing](https://github.com/AlexandraAncaGabor/API-testing)
-
-•⁠  [Bookstore_API_testing](https://github.com/AlexandraAncaGabor/Bookstore_API_testing)
-
-•  [Database-Queries](https://github.com/AlexandraAncaGabor/Database-queries/tree/main)
 
 **🔧 Tech Stack**
 
@@ -31,7 +28,7 @@ Check out my projects here:
 
 🧪 Automation Frameworks: Cypress (in progress)
 
-💾 Databases: SQL 
+💾 Databases: MySQL 
 
 **🧰 Testing Tools**
 
