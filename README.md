@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AlexandraAncaGabor!
+# 👋 Hi, I’m @AlexandraGabor!
 
 💻 QA Tester | Manual & Automation Enthusiast (Cypress in progress)
 
