@@ -13,13 +13,13 @@
 
 | Project Type            | Project Name                       | Description / Focus                     |
 |-------------------------|------------------------------------|----------------------------------------|
-| Manual Testing          | Huawei Health                      | Mobile health app testing               |
-|                         | Go Green Resources                 | Environmental web page testing          |
-|                         | Smoke Testing                       | Basic functionality checks              |
-| Automation (Cypress)    | Cypress Automation Project         | Learning Cypress from basics to intermediate |
-| API Testing             | API Testing                        | Validating API requests                 |
-|                         | Bookstore API Testing              | End-to-end API testing with a database |
-| Database Queries        | Database Queries                   | SQL queries and data validation         |
+| Manual Testing          | [Huawei Health](https://github.com/AlexandraAncaGabor/huawei-health-app-final-project) | Mobile health app testing               |
+|                         | [Go Green Resources](https://github.com/AlexandraAncaGabor/go-green-resources-testing-project)   | Environmental web page testing          |
+|                         | [Smoke Testing](https://github.com/AlexandraAncaGabor/Smoke_testing) | Basic functionality checks              |
+| Automation (Cypress)    | [Cypress Automation Projec](https://github.com/AlexandraAncaGabor/cypress-learning-journey) | Learning Cypress from basics to intermediate |
+| API Testing             | [API Testing](https://github.com/AlexandraAncaGabor/API-testing)| Validating API requests                 |
+|                         | [Bookstore API Testing](https://github.com/AlexandraAncaGabor/Bookstore_API_testing) | End-to-end API testing with a database |
+| Database Queries        | [Database Queries](https://github.com/AlexandraAncaGabor/Database-queries) | SQL queries   |
 
 
 **🔧 Tech Stack**
