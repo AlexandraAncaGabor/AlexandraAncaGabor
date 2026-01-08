@@ -55,7 +55,7 @@
 
 ### 📋 Methodologies:
 - Agile (Scrum, Kanban),
-- Exploratory Testing, Regression, Sanity
+- Exploratory Testing, Regression, Smoke
 
 ### 💬 Let’s Connect
 
